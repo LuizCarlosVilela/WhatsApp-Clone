@@ -45,15 +45,15 @@
 .sidebar_searchContainer > .MuiSvgIcon-root {
     color: gray;
     padding: 10px;
+    cursor: pointer;
 }
 
 .sidebar_searchContainer > input {
-    border: none;
+    border: 0;
     margin-left: 10px;
 }
 
 .sidebar_chats {
     flex: 1;
     background: white;
-    overflow: scroll;
 }

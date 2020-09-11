@@ -14,7 +14,7 @@ function Sidebar() {
   return (
     <div className="sidebar">
       <div className="sidebar_header">
-        <Avatar />
+        <Avatar src="https://avatars3.githubusercontent.com/u/57350762?s=460&u=5c28607a6573c3f9ae703ebc9e23c31c916e3ab3&v=4" />
 
         <div className="sidebar_headerRight">
           <IconButton>
@@ -31,9 +31,8 @@ function Sidebar() {
 
       <div className="sidebar_search">
         <div className="sidebar_searchContainer">
-          <IconButton>
-            <SearchIcon />
-          </IconButton>
+          <SearchIcon />
+
           <input placeholder="Search or start new chat" type="text" />
         </div>
       </div>
