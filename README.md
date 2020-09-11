@@ -24,12 +24,11 @@
 </h1>
 
 <br /><br />
-<br /><br />
 
 ## ***:rocket: OBJETIVO***
 
 <p align=justify> 
-  Projeto tem como principal objetivo desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS</strong>, em meio ao desenvolvimento conseguir aprender e praticar display grid e outras funções importantes do front-end, além de fazer uso da biblioteca material-ui.
+  Projeto tem como principal objetivo desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS</strong>, em meio ao desenvolvimento conseguir aprender e praticar display grid e outras funções importantes do front-end, além de fazer uso da biblioteca <strong>Material-UI</strong>.
 </p>
 
 
@@ -39,9 +38,7 @@
 
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
-  - **[React Leaflet][react_leaflet]**
   - **[Material-UI][material_ui]**
-
 
   Arquivo json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-github/blob/master/package.json)</kbd>
 
