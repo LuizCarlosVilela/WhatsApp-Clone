@@ -16,7 +16,7 @@
 <h3 align=center>
   
 :books:
-***WhatsApp clone*** é um projeto para replicar a interface do WhatsApp web, para praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***
+***WhatsApp clone*** é um projeto para replicar a interface do WhatsApp web, e praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***
 </h3>
 
 <h1 align=center>
@@ -67,11 +67,6 @@ Após ter o **Node** instalado, instale as dependências do **React** de forma g
 $ npm install create-react-app -g
 
 ```
-Você precisa renomear o arquivo `.env-example` para `.env` e inserir as informações que condizem com o seu **host**:
-
-```sh
-$ mv .env-example .env
-```
 
 Instale as dependências contidas nos arquivos `package.json` que se encontram na raíz do repositório. Para instalar as dependências, basta abrir o terminal no diretório e digitar o comando:
 
@@ -81,11 +76,10 @@ $ npm install
 # ou
 $ yarn
 ```
-
 Exemplos:
 ```sh
 # Instalando as dependências do website:
-$ cd ./clone-github
+$ cd ./whatsapp-clone
 $ npm install
 
 ```
@@ -100,19 +94,13 @@ $ npm run start
 
 > Se o browser não abrir automaticamente, acesse: http://localhost:3000.
 
-## ***:star2: AGRADECIMENTOS***
-
-<div align=center>
-</table>
-
-</div>
-
 ## ***:books: REFERÊNCIAS***
 
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
 - [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 - [Node](https://nodejs.org/en/)
+- [Material-UI](https://material-ui.com/pt/getting-started/installation/)
 
 ## ***:page_with_curl: LICENÇA***
 
