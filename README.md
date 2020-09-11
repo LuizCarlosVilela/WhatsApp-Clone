@@ -20,7 +20,7 @@
 </h3>
 
 <h1 align=center>
-  <img src="assets/HomePage.png" alt="Tela Home"/>
+  <img src="assets/Home.gif" alt="Tela Home"/>
 </h1>
 
 <br /><br />
