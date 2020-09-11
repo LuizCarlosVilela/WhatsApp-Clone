@@ -7,9 +7,6 @@
 <div align=center>
 
 ![MIT][mit] ![Node_Badge][node_version_badge] ![Npm_Badge][npm_version_badge] ![React_Badge][web_react_badge] ![NodeJS_Badge][server_nodejs_badge] [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&labelColor=007ACC)](https://github.com/ellerbrock/typescript-badges/)
-  <a href="https://rocketseat.com.br" target="_blank">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
-  </a>
   
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
     <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
@@ -73,7 +70,6 @@
 
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
-  - **[Axios][axios]**
   - **[React Leaflet][react_leaflet]**
 
 
@@ -82,11 +78,7 @@
 
 #### ***Utilitários***
 
-- Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
-- Markdown: **[StackEdit][stackedit]**, **<kbd>[Markdown Emoji][markdown_emoji]</kbd>**
-- Commit Conventional: **[Commitlint][commitlint]**
-- Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
+- Editor: **[Visual Studio Code][vscode]**;
 
 ## ***:wine_glass: COMO UTILIZAR***
 
@@ -127,7 +119,7 @@ $ cd ./clone-github
 $ npm install
 
 ```
-Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>, <kbd>[website](https://github.com/LuizCarlosVilela/clone-github/blob/master/package.json)</kbd>.
+Veja os arquivos **`package.json`** do <kbd>[commitlint](./package.json)</kbd>.
 
 ### ***Utilizando o Website***
 
@@ -141,30 +133,6 @@ $ npm run start
 ## ***:star2: AGRADECIMENTOS***
 
 <div align=center>
-
-<table style="width:100%">
-  <tr align=center>
-    <th><strong>Rocketseat</strong></th>
-    <th><strong>diego3g</strong></th>
-    <th><strong>guilhermerodz</strong></th>
-  </tr>
-  <tr align=center>
-    <td>
-      <a href="https://rocketseat.com.br/">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981650-1e2e6680-a8f6-11ea-9f42-6df8fe809e4b.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/diego3g">
-        <img width="200" height="180" src="https://user-images.githubusercontent.com/38081852/83981712-b7f61380-a8f6-11ea-9099-bd3677e97e39.jpg">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/guilhermerodz">
-        <img width="200" height="180" src="https://avatars0.githubusercontent.com/u/10366880?s=460&u=ae99daa8dbb052dfcd0048862ab87007f677e6ed&v=4">
-      </a>
-    </td>
-  </tr>
 </table>
 
 </div>
@@ -172,10 +140,8 @@ $ npm run start
 ## ***:books: REFERÊNCIAS***
 
 - [React + TypeScript Cheat Sheet](https://github.com/typescript-cheatsheets/react-typescript-cheatsheet)
-- [Blog Rocketseat](https://blog.rocketseat.com.br/)
 - [ReactJS](https://reactjs.org/docs/getting-started.html) | [ReactJS pt-BR](https://pt-br.reactjs.org/docs/getting-started.html)
 - [TypeScript](https://www.typescriptlang.org/docs/home.html)
-- [React Native](https://reactnative.dev/docs/getting-started)
 - [Node](https://nodejs.org/en/)
 
 ## ***:page_with_curl: LICENÇA***
@@ -184,9 +150,6 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 <i><h2 align="center">Feito com ❤️ por <a href="https://www.linkedin.com/in/luiz-carlos-vilela/">Luiz Carlos Vilela</a></h2></i>
 
-<!-- Website Links -->
-
-[rocketseat_site]: https://rocketseat.com.br/
 
 <!-- Badges -->
 
@@ -202,8 +165,6 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [web_react_badge]: https://img.shields.io/badge/web-react-blue
 
-[mobile_react-native_badge]: https://img.shields.io/badge/mobile-react%20native-blueviolet
-
 [server_nodejs_badge]: https://img.shields.io/badge/server-nodejs-important
 
 <!-- Techs -->
@@ -214,53 +175,15 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 
 [node]: https://nodejs.org/en/
 
-[leaflet]: https://react-leaflet.js.org/en/
-
 [vscode]: https://code.visualstudio.com/
-
-[react_native]: http://www.reactnative.com/
 
 [stackedit]: https://stackedit.io
 
-[vscode_sqlite_extension]: https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite
-
-[markdown_emoji]: https://gist.github.com/rxaviers/7360908
-
-[commitlint]: https://github.com/conventional-changelog/commitlint
-
 [tsnode]: https://github.com/TypeStrong/ts-node
-
-[feather_icons]: https://feathericons.com/
-
-[insomnia]: https://insomnia.rest/
-
-[react_leaflet]: https://react-leaflet.js.org/
 
 [react_router_dom]: https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom
 
 [react_icons]: https://react-icons.github.io/react-icons/
-
-[axios]: https://github.com/axios/axios
-
-[dotenv]: https://github.com/motdotla/dotenv
-
-[expo_google_fonts]: https://github.com/expo/google-fonts
-
-[react_navigation]: https://reactnavigation.org/
-
-[font_archivo]: https://fonts.google.com/specimen/Archivo
-
-[font_poopins]: https://fonts.google.com/specimen/Poppins
-
-[font_awesome]: https://fontawesome.com/
-
-[multer]: https://github.com/expressjs/multer
-
-[celebrate]: https://github.com/arb/celebrate
-
-[joi]: https://github.com/hapijs/joi
-
-[react_dropzone]: https://github.com/react-dropzone/react-dropzone
 
 [asdf]: https://github.com/asdf-vm/asdf
 
