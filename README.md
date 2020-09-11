@@ -19,11 +19,13 @@
 ***WhatsApp clone*** é um projeto para replicar a interface do WhatsApp web, e praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***
 </h3>
 
+<br /><br />
+
 <h1 align=center>
   <img src="assets/Home.gif" alt="Tela Home"/>
 </h1>
 
-<br /><br />
+<br />
 
 ## ***:rocket: OBJETIVO***
 
