@@ -1,7 +1,7 @@
 # ***WhatsApp Clone :computer:*** 
 
 <h1 align=center>
-  <img src="assets/BannerGitHub.png" alt="GitHub Banner"/>
+  <img src="assets/Banner.png" alt="WhatsApp Banner"/>
 </h1>
 
 <div align=center>
@@ -11,14 +11,12 @@
   <a href="https://www.linkedin.com/in/luiz-carlos-vilela" target="_blank"> 
     <img src="https://img.shields.io/badge/Developer-Luiz%20Carlos-brightgreen?style=flat&logo=Linkedin&logoColor=white" alt="Developer link" />
   </a>
-
 </div>
 
 <h3 align=center>
   
 :books:
-***CloneGitHub*** é um projeto para replicar a interface do GitHub desenvolvido na **(UI Clone)** da **[Rocketseat][rocketseat_site]** utilizando as tecnologias ***TypeScript, Node, React e Styled-Components***
-
+***WhatsApp clone*** é um projeto para replicar a interface do WhatsApp web, para praticar o desenvolvimento front-end com as tecnologias ***TypeScript, Node, ReactJS e Material-UI***
 </h3>
 
 <h1 align=center>
@@ -26,41 +24,12 @@
 </h1>
 
 <br /><br />
-
-<h2 align=center>
-  <i>Dark-Mode Web </i> :pager:
-</h2>
-
-<div align=center>
-    <img src="/assets/darkmode.gif" alt="Mode Dark/Light Web" />
-</div>
-
-<br />
-
-<h2 align=center>
-  <i>Responsividade Web </i> :pager:
-</h2>
-
-<div align=center>
-    <img src="/assets/responsividade.gif" alt="Responsividade Web" />
-</div>
-
-<br />
-
-<h2 align=center>
-  <i>Navegação Usuários</i> :pager:
-</h2>
-
-<div align=center>
-    <img src="/assets/navigation.gif" alt="Pages Web" />
-</div>
-
 <br /><br />
 
 ## ***:rocket: OBJETIVO***
 
 <p align=justify> 
-  Projeto tem como principal objetivo desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS e Styled-Component</strong>, além de aprender sobre a API do próprio gitHub que foi usada como <strong>back-end</strong> da aplicação, como resultado conseguimos clonar a interface do <strong>GitHub</strong> e acrescentar um DarkMode bem interessante para a aplicação.
+  Projeto tem como principal objetivo desenvolver conhecimento na linguagem <strong>typescript</strong> e na biblioteca <strong>ReactJS</strong>, em meio ao desenvolvimento conseguir aprender e praticar display grid e outras funções importantes do front-end, além de fazer uso da biblioteca material-ui.
 </p>
 
 
@@ -71,6 +40,7 @@
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
   - **[React Leaflet][react_leaflet]**
+  - **[Material-UI][material_ui]**
 
 
   Arquivo json do fron-end do webSite <kbd>[package.json](https://github.com/LuizCarlosVilela/clone-github/blob/master/package.json)</kbd>
@@ -168,6 +138,8 @@ Este repositório está licenciado pela **MIT LICENSE**. Para mais informações
 [server_nodejs_badge]: https://img.shields.io/badge/server-nodejs-important
 
 <!-- Techs -->
+
+[material_ui]: https://material-ui.com/
 
 [react]: https://reactjs.org/
 
